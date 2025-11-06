@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/lokerkm/swagger-example/main/xss.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/lokerkm/swagger-example/main/xss.yaml",
+            "name": "Test"
+        }
+    ]
+}
